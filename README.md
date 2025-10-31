@@ -1,6 +1,7 @@
+
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=524&lines=+Ola+Eu+sou+o+Miguel!+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=524&lines=+Ola,+eu+sou+o+Miguel!+" alt="Typing SVG">
   </a>
 </div>
 
@@ -23,4 +24,9 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"height="25" alt="python logo" />
   <img width="8" />
+  
 </div>
+
+----------
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-migs)
