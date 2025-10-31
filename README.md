@@ -10,8 +10,6 @@
 
 <p align="center">Estudo Java, Python, SQL e C++... a procura de iniciar na área.
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
-
 <h3 align="left">My Stack </h3>
 
 <div align="left">
@@ -23,5 +21,11 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"height="25" alt="python logo" />
   <img width="8" />
+
+</div>
+
+<div align="right">
   
+<img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="80">
+
 </div>
